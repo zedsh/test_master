@@ -1,0 +1,3 @@
+[submodule "project/bxeasylang"]
+	path = project/bxeasylang
+	url = https://github.com/zedsh/bxeasylang
